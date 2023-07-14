@@ -11,8 +11,7 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 
 
 # 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=SiddhiMahadik2002&theme=dracula&title=Commits)](https://github.com/SiddhiMahadik2002)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SiddhiMahadik2002)](https://github.com/SiddhiMahadik2002/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SiddhiMahadik2002&theme=dracula&title=Commits&title=Repositories)](https://github.com/SiddhiMahadik2002)
 
 # 📈 Contribution
 [![Siddhi Mahadik's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhimahadik2002&theme=react-dark)](https://github.com/siddhimahadik2002)
